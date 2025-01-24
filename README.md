@@ -11,7 +11,7 @@ Aayush Saini (A00270748)
 <br>
 Bryan Guzman (A00287695 )
 <br>
-Harold Reyes (A00        )
+Harold Reyes (A002      )
 thank you
 # Room-Tracking Robot  
 
