@@ -13,3 +13,33 @@ Bryan Guzman (A00287695 )
 <br>
 Harold Reyes (A00        )
 thank you
+# Room-Tracking Robot  
+
+## 🛠 Project Overview  
+This project aims to build a robot that can:  
+1. Identify room locations on a cardboard base.  
+2. Interact with users using voice commands.  
+3. Navigate to the specified location.  
+
+---
+
+## 🚀 Current Goals  
+- Design the basic layout of the cardboard base.  
+- Set up the robot chassis and hardware.  
+- Begin programming the robot for basic movement.  
+- Integrate voice command functionality.  
+
+---
+
+## 🖥️ Technologies and Tools  
+- **Hardware**:  
+  - Microcontroller (e.g., Raspberry Pi or Arduino)  
+  - Motors  
+  - Ultrasonic/IR sensors  
+  - Robot chassis  
+
+- **Software**:  
+  - Python  
+  - Voice recognition library (e.g., `SpeechRecognition`)  
+  - Basic pathfinding logic  
+
