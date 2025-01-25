@@ -28,7 +28,6 @@ This project aims to build a robot that can:
 - Set up the robot chassis and hardware.  
 - Begin programming the robot for basic movement.  
 - Integrate voice command functionality.  
-
 ---
 
 ## 🖥️ Technologies and Tools  
@@ -37,6 +36,7 @@ This project aims to build a robot that can:
   - Motors  
   - Ultrasonic/IR sensors  
   - Robot chassis  
+  - PiCar-X
 
 - **Software**:  
   - Python  
