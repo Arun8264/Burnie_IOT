@@ -37,7 +37,8 @@ This project aims to build a robot that can:
   - Ultrasonic/IR sensors  
   - Robot chassis  
   - PiCar-X
-
+  - Camera and SD Card
+  - Battries 
 - **Software**:  
   - Python  
   - Voice recognition library (e.g., `SpeechRecognition`)  
