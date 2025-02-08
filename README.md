@@ -12,8 +12,7 @@ Aayush Saini (A00270748)
 Bryan Guzman (A00287695 )
 <br>
 Harold Reyes (A00281588)
-bryan
-thank you
+
 # Room-Tracking Robot  
 
 ## 🛠 Project Overview  
@@ -43,5 +42,5 @@ This project aims to build a robot that can:
   - Python  
   - Voice recognition library (e.g., `SpeechRecognition`)  
   - Basic pathfinding logic 
-  benchod 
+ 
 
