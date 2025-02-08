@@ -42,10 +42,5 @@ This project aims to build a robot that can:
 - **Software**:  
   - Python  
   - Voice recognition library (e.g., `SpeechRecognition`)  
-  - Basic pathfinding logic jkjdjvjvshbdfs
-<<<<<<< HEAD
-   
-=======
- 
->>>>>>> 064520a0489d03010a8bbbd4a3cff5d77ed91418
+  - Basic pathfinding logic
 
