@@ -12,7 +12,7 @@ Aayush Saini (A00270748)
 Bryan Guzman (A00287695 )
 <br>
 Harold Reyes (A00281588)
-thank you
+
 # Room-Tracking Robot  
 
 ## 🛠 Project Overview  
@@ -37,10 +37,15 @@ This project aims to build a robot that can:
   - Ultrasonic/IR sensors  
   - Robot chassis  
   - PiCar-X
-
+  - Camera and SD Card
+  - Battries 
 - **Software**:  
   - Python  
   - Voice recognition library (e.g., `SpeechRecognition`)  
-  - Basic pathfinding logic 
+  - Basic pathfinding logic jkjdjvjvshbdfs
+<<<<<<< HEAD
    
+=======
+ 
+>>>>>>> 064520a0489d03010a8bbbd4a3cff5d77ed91418
 
