@@ -42,5 +42,5 @@ This project aims to build a robot that can:
   - Python  
   - Voice recognition library (e.g., `SpeechRecognition`)  
   - Basic pathfinding logic 
-  benchod 
+   
 
