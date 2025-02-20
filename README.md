@@ -39,7 +39,7 @@ done by aayush
   - Robot chassis  
   - PiCar-X
   - Camera and SD Card
-  - Battries jhbhbn
+  - Battries 
 - **Software**:  
   - Python  
   - Voice recognition library (e.g., `SpeechRecognition`)  
