@@ -47,7 +47,7 @@ done by aayush
 
 
 
-Explanation of the Code:
+Explanation of file burnie_logic.py Code:
 GPIO Setup: We set up GPIO pins to control the motors. You'll need to connect your motors to the Raspberry Pi GPIO pins, and ensure that the motor driver (like L298N or similar) is wired correctly.
 
 Motor Control Functions: The move_forward, move_backward, turn_left, and turn_right functions are used to control the robot's movement.
