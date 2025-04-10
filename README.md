@@ -17,18 +17,18 @@ Harold Reyes (A00281588)
 
 ## 🛠 Project Overview  
 This project aims to build a robot that can:  
-1. Identify room locations on a cardboard base.  
-2. Interact with users using voice commands.  
-3. Navigate to the specified location.  
+1. Identify different colors assignede with their respective locations.  
+2. Interact with users using 7 inch raspberrypi screen with  a user friendly interface .  
+3. Navigate to the specified location by navigating through different color .  
 
 ---
 
 ## 🚀 Current Goals  
-- Design the basic layout of the cardboard base.  
+- Design the basic layout of the testing field.  
 - Set up the robot chassis and hardware.  
 - Begin programming the robot for basic movement.  
-- Integrate voice command functionality.  
-done by aayush 
+- Integrate  7 inch respberrypi screen functionality.  
+
 ---
 
 ## 🖥️ Technologies and Tools  
@@ -42,7 +42,7 @@ done by aayush
   - Battries 
 - **Software**:  
   - Python  
-  - Voice recognition library (e.g., `SpeechRecognition`)  
+  -   
   - Basic pathfinding logic
 
 
@@ -65,11 +65,6 @@ Colors: If your path uses different colors, you’ll need to adjust the LOWER_CO
 
 Frame Size and Center: The line detection assumes a center of the frame around which the robot will adjust its movement.
 
-How to Run:
-Run this script on your Raspberry Pi connected to your Picar-X.
 
-Make sure the camera is set up properly and can detect the line.
-
-Ensure your motor control wiring is correct before starting the program.
 
 This code serves as a basic line-following logic that you can later integrate with your front-end user interface, where the user can control which color path the robot follows.
